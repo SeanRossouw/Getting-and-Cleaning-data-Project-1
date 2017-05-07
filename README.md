@@ -11,3 +11,9 @@ The R file run_analysis.r does the following:
 5: Tidies and prints this summarised table as a text file
 
 The end result is shown as "UCI HAR mean and std tidy.txt"
+
+Files:
+run_analysis.R - script that performs the analysis and outputs the tidy summary file
+UCI HAR mean and std tidy.txt - the output tidy dataset
+readme.txt - a basic readme file explaining the solution process
+codebook.txt - a document explaining the variables and identifiers used in the tidy dataset
